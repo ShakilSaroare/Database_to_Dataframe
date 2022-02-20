@@ -1,3 +1,5 @@
+.ipynb_checkpoints
+.gitignore.bak
 world.db
 test.db
 album.db
@@ -13,3 +15,4 @@ sites/site*/public/theme/
 textpattern/
 HISTORY.txt
 README.txt
+.gitignore.bak
