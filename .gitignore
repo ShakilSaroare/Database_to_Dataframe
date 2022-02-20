@@ -1,3 +1,5 @@
+.ipynb_checkpoints
+.gitignore.bak
 world.db
 test.db
 album.db
