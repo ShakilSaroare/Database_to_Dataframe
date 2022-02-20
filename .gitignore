@@ -18,3 +18,4 @@ HISTORY.txt
 README.txt
 .gitignore.bak
 .ipynb_checkpoints/sqlite-checkpoint.ipynb
+*.ipynb
