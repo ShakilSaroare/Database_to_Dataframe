@@ -1,4 +1,7 @@
-.db
+world.db
+test.db
+album.db
+chinook.db
 .htaccess
 css.php
 rpc/
